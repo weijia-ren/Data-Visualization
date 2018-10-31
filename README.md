@@ -3,3 +3,4 @@ Data visualization in R.
 This repository including examaples of data visualization tools in
   - Basic visualization graphs (i.e. ggplot2). 
   - More advanced visualization graphs (i.e. flowchart). 
+  - Map
